@@ -4,6 +4,7 @@ import collections
 import jieba
 
 jskill = {}
+sjob = {}
 count = 0
 fin = open(u'F:/人才雷达/yincai_record_30w.txt', 'r')
 for line in fin:
@@ -23,6 +24,10 @@ for line in fin:
     else:
         jskill[job].append(skill)
 
+    if skill not in sjob:
+        sjob.update({skill: [job]})
+    else:
+        sjob[skill].append(job)
 fin.close()
 
 fout = open('./job_skill.txt', 'w')
@@ -34,5 +39,17 @@ for job in jskill:
         jobs.append(j[0])
 
     fout.write(job+'\t'+','.join(jobs)+'\n')
+fout.flush()
+fout.close()
+
+fout = open('./skill_job.txt', 'w')
+for skill in sjob:
+    c = collections.Counter(sjob[skill])
+    common = c.most_common(10)
+    jobs = []
+    for j in common:
+        jobs.append(j[0])
+
+    fout.write(skill+'\t'+','.join(jobs)+'\n')
 fout.flush()
 fout.close()
