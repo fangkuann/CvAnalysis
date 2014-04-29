@@ -4,7 +4,7 @@ import collections
 
 fin=open('d:/yincai_record_30w.txt','r')
 for line in fin:
-    cv =line.strip().replace('null',"'null'")
+    cv = line.strip().replace('null',"'null'")
     if cv.find('php') != -1:
         #print cv
         cv = eval(cv)
