@@ -18,19 +18,20 @@ for line in fin:
         continue
 
     experience = cv['education']
-    skill = cv['t_pre_skill']
+    #skill = cv['t_pre_skill']
+    skill = cv['pro_title']
     #print experience
     for li in experience:
         jname = li['college']
         if jname == 'null' or skill == 'null':
             continue
         if jname not in jwords:
-            jwords[jname] = [skill]
+            jwords[jname] = skill
         else:
-            jwords[jname] += [skill]
+            jwords[jname] += skill
 fin.close()
 
-fout = open('./academic_keywords.txt', 'w')
+fout = open('./academic_jobs.txt', 'w')
 for job in jwords:
     #print jwords[job]
     c = collections.Counter(jwords[job])
