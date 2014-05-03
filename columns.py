@@ -12,6 +12,7 @@ for line in fin:
         #
         # print '\n'.join(cv.keys())
         # break
+        print cv['education']
         if cv['experience'] != 'null':
            #print len(cv.keys()),'\t',cv['experience'][0],'\t',cv['projects'][0],'\t',cv['work_status'],'\t',cv['pro_title'][0]#,'\t',cv['f_lang'] ,
             try:
