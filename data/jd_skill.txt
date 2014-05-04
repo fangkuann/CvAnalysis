@@ -1,0 +1,400 @@
+高级java开发		soa,web,j2ee,java,ip,tcp,uml,mysql,oracle,http,android
+Java开发工程师（中级）		web,j2ee,java,ip,tcp,http
+京东Java高级开发工程师		web,java,mongo,tomcat,spring,mysql,redis,ibatis,struts2,mvc,weblogic,linux,maven
+Java开发攻城狮		jquery,web,j2ee,12,java,tomcat,dom,springmvc,spring,javascript,json,ajax,hibernate,jsp,mysql,php,css
+高级java开发工程师		spring,linux,ibatis,unix,mysql,xml,web,java,struts,orcale,css,css3,hibernate,http,javascript,js,ajax,html5,sql,servlet,jquery,j2ee,tomcat,resin,oracle,div
+行政前台		com,2000,http,office
+产品经理（PM）		
+高级产品经理（管理岗）		
+无线产品经理		web,mindmanager,photoshop,windows,ios,visio,seo,android,axure,pm
+高级iOS	c,ios,xcode
+【微信产品部】C/C++后台开发		c,shell,python,linux,c++,sql,mysql
+Java开发大牛		spring,mysql,xml,web,jdbc,java,struts,ejb,jboss,html,weblogic,css,jquery,plsql,python,mongodb,javascript,js,jsp,html5,php,servlet,svn,j2ee,webservice,tomcat,eclipse
+手机移动端高级产品经理		
+产品经理（支付产品）		
+移动产品经理		axure
+JAVA开发工程师		spring,linux,sqlserver,ibatis,mysql,web,java,struts,html,css,hibernate,javascript,maven,ajax,jsp,ssh,sql,db2,servlet,mssql,jquery,j2ee,12,erp,oa,server,mvc,oracle
+C++服务器开发架构师		shell,python,linux,c++,lua,unix,mysql
+互联网产品经理		12,mindmanager,ios,visio,android,axure
+Java中、高级开发工程师		redis,java,tomcat,linux
+Java后台开发工程师		hibernate,java,tomcat,mysql,spring,struts,jsp,mongodb
+Java云系统开发工程师		jquery,hibernate,java,spring,struts,ibatis,javascript,erp
+产品经理		photoshop,google,ad,office,ppt,sem,id,pr,web,excel,pc,html,visio,android,project,javascript,http,fireworks,ios,e,a,c,12,word,mindmanager,windows,qa,axure,com,powerpoint
+Java后台研发工程师		ajax,javaee,ssh
+中汇支付高薪招聘—java开发主管		jquery,web,j2ee,jdbc,java,html,ajax,hibernate,ssh,oracle,css
+Java开发工程师（个人支付方向）		soa,web,j2ee,hibernate,java,spring,mysql,oracle,mssql
+即时通信开发-Java		j2ee,java
+高级后台开发工程师（网络爬虫）		
+游戏服务器Java开发工程师---【创新工场】		mongodb,mysql,java,com,linux
+C++后台开发		c,redis,c++,linux
+iOS苹果客户端软件工程师/程序员/开发/中级		
+高级IOS开发工程师		c,ios,c++,linux
+服务器运维开发工程师		web,c,shell,python,mongodb,c++,linux,apache,hbase,php
+iOS应用开发攻城师		java,c,ios
+Java/Python/C	
+产品经理（产品&amp;运营）		seo,sem,axure
+商业产品资深产品经理		
+SEO产品经理		seo
+Java服务器端开发工程师		svn,web,12,java,sqlserver,xml,python,struts,mysql,eclipse,ajax,spring,js,struts2,hibernate,linux,oracle,html,css
+初级PHP工程师		jquery,web,javascript,redis,html,linux,ajax,memcache,mysql,div,php,css
+百度联盟产品部_高级产品经理(策略产品方向)		
+【QQ浏览器】IOS浏览器高级终端开发工程师（深圳）		c,html,ios,html5,c++
+iOS应用开发工程师		http,c,ios,xcode
+技术总监（浏览器-云服务器）		python,c,http,c++
+后台程序员（网站开发中级）		svn,jquery,j2ee,hibernate,java,tomcat,sql,spring,struts,sqlserver,jboss,ajax,weblogic,javascript,mysql,oracle,eclipse,myeclipse
+后台开发工程师C++		c,java,unix,c++,linux
+初中级java开发工程师		mybatis,spring,hibernate,java,mvc
+产品副总监/资深产品经理		
+iOS开发攻城狮		c,http,xcode,ios,c++,android,com
+游戏服务器后台开发工程师		python,php,c++,linux
+JS前端开发工程师		xml,web,java,jquery,javascript,js,json,html,php,extjs,css
+产品经理--社区方向（她理财）		com
+音视频开发工程师		c,c++,linux
+品牌展示广告部——高级产品经理（网页检索方向）		
+PHP高级工程师		xml,web,javascript,java,mongodb,unix,mysql,ajax,json,jquery,lamp,html,sql,linux,apache,div,php,css
+行政前台/助理/主管		excel,12,word,office,ppt
+高级IOS/Android前端开发工程师		css3,c,java,javascript,ios,c++,html5,android
+银行	windows,c,ios,xcode,c++
+产品经理（卖家会员产品）		
+PHP服务器工程师与宠物		a,web,12,xml,javascript,ios,linux,html,mysql,android,php,css
+商业产品资深产品经理-北京-D-DMN		
+Android应用开发/服务器开发工程师		android
+前台开发工程师(PHP,JS),	mysql,javascript,html,mvc,php,css
+JAVA开发工程师（高级）		web,j2ee,jdbc,java,tomcat,bi,jboss,html,jsp,erp,servlet
+前台		ps,c,12,word,office,excel,wps,ms,ppt
+Java开发/前端/测试		ae,c,com,js
+Java开发高级工程师		mongo,spring,mysql,ibatis,shell,linux,xp,hbase,xml,web,java,struts,redis,jboss,hibernate,python,maven,ajax,memcache,sql,apache,servlet,jquery,j2ee,tomcat,server,mvc
+[CNTV]ios开发工程师(成都)		c,vc,ios,xcode,c++
+商业产品产品经理		
+产品部策划经理		
+社区类产品经理		
+C++后台工程师		c,shell,python,linux,c++,sql,mysql
+服务器C++程序员		c,c++
+搜索产品经理		
+CRM产品经理		erp,mindmanager,fireworks,oa,project,visio,axure
+后台服务端开发工程师		c,shell,python,c++,lua,unix,tcp,linux,php
+移动端产品经理		office,project,pc,visio,android,axure
+python后台开发工程师		python,mysql,redis,mongo,linux
+产品经理实习生		
+资深iOS/Android开发工程师		
+Java中高级开发工程师		svn,web,git,java,tomcat,mysql,spring,struts,eclipse,resin,ibatis,sql,linux,maven,thrift
+产品运营主管（PM）		axure,office
+高级linux后台开发工程师		c,java,ip,mysql,tcp,unix,c++,linux
+高级产品经理	pc,com,erp,http
+品牌展示广告部_产品经理（基础广告平台方向）		
+高级IOS/Android开发工程师		xml,c,java,windows,ip,ios,c++,tcp,json,rest,http,android
+服务器开发软件工程师		jdbc,java,python,spring,ejb,jsp,mysql,php,servlet
+产品经理（流程优化、提升用户体验方向）		
+资深服务器开发工程师（Python）		python,web,mysql
+产品经理（网站方向和无线方向）		photoshop,axure,fireworks
+iOS高级开发		c,http,ip,xcode,ios,c++,unix,tcp
+移动互联网产品经理		12
+Java开发工程师/专家		java,tomcat,sql,eclipse,server,weblogic,ssh,mysql,oracle
+资深Java服务端开发		http,ios,c++,cocos2d,java,android
+资深工具开发工程师（php/java）		git
+IOS开发攻城狮		c,xcode,ios,c++,html5,gui
+服务器研发工程师		python,300,c,java,c++
+高级PHP开发工程师（前台）		jquery,web,http,javascript,0,ajax,html,sql,mysql,php,css
+产品部经理		axure,android,office,visio
+后台服务开发工程师		web,j2ee,shell,java,mysql,ios,oracle,unix,linux,seo,android
+高级服务器开发工程师		linux,java,lua,python,mongodb,mysql,redis,lucene,xmpp,spring,apache,http,hbase,thrift
+Python后台开发工程师		python,postgresql,mysql,http,linux
+产品经理(UE)		
+融资服务高级产品经理		
+java开发工程师		xml,web,hibernate,java,mysql,spring,memcache,javascript,redis,json,ajax,html,sql,mvc,css
+系统erp产品经理		erp
+前台收银		
+产品培训经理		office,ppt
+影视产品运营经理		
+中级Java开发工程师		springmvc,spring,linux,ibatis,mysql,xml,web,git,java,struts,jboss,html,uml,css,svn,hibernate,javaweb,javascript,ajax,jsp,sql,apache,jquery,j2ee,12,webservice,tomcat,struts2,mvc,pl,oracle
+Java工程师		web,java
+ios开发工程师		xml,c,http,xcode,ios,c++,json
+iOS苹果客户端软件工程师/程序员/开发/高级		
+移动互联网--产品经理		web,12,http,vc,html5,visio,axure,com,2008
+手机游戏后台开发		c,java,ip,c++,server,unix,tcp,linux,php
+SNS产品经理		
+高级Java开发工程师		soa,jpa,ip,mysql,sqlserver,tcp,ibatis,unix,shell,c++,linux,id,xml,web,git,java,struts,redis,hibernat,ejb,javaee,jboss,html,ssh2,spring,mybatis,uml,memcached,oo,css,weblogic,jquery,hibernate,http,mongodb,javascript,c,js,maven,dwr,ajax,jsp,html5,sql,apache,php,servlet,svn,j2ee,12,erp,webservice,tomcat,eclipse,resin,server,struts2,mvc,pl,ms,oracle
+产品经理/专员（移动医疗项目组）		web
+百度数据产品经理		
+后台工程师		jquery,ip,shell,java,mysql,spring,struts,tcp,mongodb,xmpp,unix,jsp,sql,linux,server,servlet,thrift
+高级Java开发		jquery,redis,j2ee,hibernate,java,tomcat,web,sql,spring,struts,sqlserver,mongodb,jboss,xmpp,ajax,weblogic,javascript,mysql,oracle,memcached
+产品规划专员（产品经理）		pm
+PHP(实习生)		com
+高级/资深服务器开发工程师		c++
+电子市场产品经理（深圳）		
+iOS资深开发工程师		c,ios,android,c++
+产品经理/助理		photoshop,axure,html,xmind,dreamweaver
+APP产品高级经理		
+Java服务器开发经理		http,mongodb,redis,rest,js,json
+人事/HR兼前台		
+产品经理助理		pr,web,axure
+游戏平台产品经理		axure,visio
+数据统计、分析产品PM		
+产品经理（积分产品运营）		
+C++后台开发工程师		c,java,ace,python,ip,mysql,redis,c++,mongodb,memcache,tcp,linux,php,bash
+JAVA开发工程师（中间件）		springmvc,spring,hibernate,java,jboss
+Java服务端开发工程师		xml,jquery,hibernate,java,web,mysql,spring,javascript,ajax,linux,cet,struts2,html,jsp,sql,mvc,oracle,servlet,css
+iOS高级开发工程师		ps,c,http,rest,ip,xcode,ios,c++,unix,mvc,tcp,linux,oracle,android,objectivec
+风控产品经理（反欺诈）		axure,visio
+IOS开发组长--优听radio		c,http,xcode,ios,c++,html5,android
+Java开发经理（服务器）		http,mongodb,redis,rest,js,json
+Java开发架构师		svn,j2ee,git,ip,sql,redis,tcp,unix,linux,memcached
+高级产品经理（运营）		
+产品经理（高级）（商品线）		axure,viso,mindmanager
+php架构师		
+IOS开发工程师-聚划算-杭州		xcode,12,ios,gui,uikit
+自动化测试工程师(服务器)		cet4,web,shell,postgresql,python,linux,mysql,oracle
+c++手机游戏服务器端开发工程师		c,shell,unix,c++,linux
+资深java开发工程师		web,java,python,linux,ssh,mysql
+app产品经理		android
+Java高级开发攻城师		google,java
+服务器程序员		lua,j2ee,java,tomcat,mysql
+数据仓库产品经理		cognos,informatica,datastage,bi,server,sql,oracle,db2,etl
+产品经理(产品总监)		erp
+iOS应用开发主程		http,c,ios,tcp,c++
+服务器系统工程师		web,2008,linux,server
+中级PHP工程师		jquery,web,javascript,redis,html,linux,ajax,memcache,mysql,div,php,css
+C++服务器开发工程师		c,12,c++,linux
+Java中级开发工程师		j2ee,hibernate,java,eclipse,ios,struts2,spring,android
+Java服务器端开发工程师与宠物		a,git,java,python,mysql,ios,unix,12,sql,android,bash
+产品社区运营经理		
+iOS高级越狱开发		c,ios,c++
+初中级Java开发工程师		a,java,of,rest,as,design,mysql,engineer,software
+Java高级开发工程师		dojo,mongo,springmvc,spring,mysql,sqlserver,tcp,ibatis,unix,shell,oa,linux,myeclipse,f5,xml,web,db2,java,struts,redis,jboss,sybase,300,html,weblogic,webwork,mybatis,uml,android,memcached,css,pm,css3,svn,hibernate,http,python,mongodb,javascript,ios,c,maven,dwr,ajax,git,jsp,html5,sql,apache,php,servlet,resin,thrift,jquery,j2ee,12,erp,tomcat,gui,eclipse,c++,server,lucene,struts2,mvc,oracle,div,mssqlserver
+iOS中高级开发工程师		svn,c,git,ios,rest,sql
+地图搜索产品经理		
+产品经理/高级产品经理-购物流程方向		
+C/C++	unix,c,c++,linux
+php开发工程师		web,webservice,mysql,memcache,sql,lamp,unix,mvc,linux,oracle,php
+java前端开发工程师		xml,web,hibernate,java,tomcat,spring,jquery,struts,server,ibatis,ajax,mvc,weblogic,javascript,sql,oracle
+C++工程师（服务器开发）		c,shell,ip,mysql,gcc,tcp,c++,linux,oracle
+苹果/IOS高级研发工程师		web,c,http,xcode,ios,sqlite,c++,rest,gui
+项目经理/PM		ppt
+电商产品经理		qa,photoshop,axure,12,visio
+PHP		google,mongo,ai,qa,linux,sqlserver,tcp,unix,asp,design,liunx,mysql,seo,sem,xml,web,git,java,0,lua,xslt,redis,json,extjs,pc,lamp,html,ip,uml,android,memcached,oo,css,css3,svn,shell,http,ps,python,mongodb,javascript,ios,js,dwr,ajax,memcache,jsp,a,sql,apache,erp,php,mssql,ssh,jquery,c,12,word,windows,c++,server,lucene,bugzilla,mvc,postgresql,oracle,div,com,think,html5
+iOS开发实习生		ps,c,google,ios
+无线事业部-后台开发工程师		web,java,ip,mysql,ios,tcp,linux,oracle,android,php
+java开发工程师/高级开发工程师		web,j2ee,java,ios,js,sql,android
+iOS、苹果		ios
+服务器端开发工程师（JAVA）		web,c,java,tomcat,spring,linux,eclipse,j2ee,c++,ibatis,mvc,mysql
+前台兼行政		project,excel,powerpoint,ppt
+平台高级产品经理		erp,mindmanager,visio,ppt,uml,axure
+IOS高级开发攻城狮		c,http,ip,ios,sqlite,tcp,json,c++
+LUA服务器程序员		lua,html,js
+Java开发工程师-CRM		jquery,j2ee,hibernate,java,tomcat,python,spring,struts,sqlserver,linux,jboss,shell,weblogic,mysql,oracle
+iOS开发工程师（APP）		c,ios
+产品经理（高级）（运营线）		axure,viso,mindmanager
+Java开发工程师（数据方向）		linux,web,hibernate,java,spring,javascript,jsp,mysql,servlet
+产品运营经理		http,windows,excel,ppt,ios,project,visio,axure,com,android
+服务器开发		linux,c,http,mysql,redis,c++,server,sql,oracle
+有iOS背景的开发攻城师		dom,javascript,ios,js,ajax,html5
+高级ios开发工程师		c
+无线产品经理-爱记账		
+PHP后台程序员		12,windows,linux,mysql,apache,div,php,css
+【搜狐畅游】高并发聊天服务器开发工程师（社交,非游戏）		
+服务器开发经理		http,mongodb,redis,rest,js,json
+Java中级开发工程师（1）		xml,web,java,jbpm,tomcat,springmvc,spring,jquery,javascript,oracle,ajax,sql,mybatis,uml,css
+服务器开发工程师		spring,linux,unix,hibernate,mysql,web,java,struts,redis,jboss,weblogic,xmpp,mybatis,shell,python,mongodb,c,memcache,sql,php,svn,j2ee,tomcat,eclipse,c++,lucene
+产品总监或高级产品经理		
+iOS开发主管		svn,oo,c,java,bugfree,ai,xcode,ios,ps,jquery,mvc,web,android
+实习产品经理（移动互联网）		fl
+客户服务产品经理（CRM/呼叫中心）		
+移动互联网高级产品经理		
+iOS开发者		vc,ios
+IOS应用开发工程师		c,http,ip,xcode,macosx,c++,tcp,cocos2d
+IOS攻城狮（移动开发）		xcode,ios,c
+高级C++游戏服务器开发工程师		sql,c,mysql,c++,linux
+业务后台产品经理		qa,axure
+行政助理兼前台（全职或实习生）		12
+PHP高级开发工程师—急招		web,shell,linux,redis,mvc,mysql,php,memcached
+php工程师		linux,jquery,web,javascript,ajax,lamp,html,mysql,php,css
+后台产品经理		javascript,erp,visio,oa,viso,html,div,sql,axurerp,axure,css,pm
+（高级）产品经理		
+Android/iOS	xml,java,ios,c++,json,http,android
+iOS开发工程师&middot;		c,com
+移动互联网产品设计师\产品设计师\产品经理助理		
+iOS开发工程师（同步推）		xml,c,http,xcode,ios,tcp,id,json,mvc,gui
+PHP服务器游戏开发工程师		web,ip,linux,tcp,js,lamp,mysql,apache,php,css
+后台开发工程师		linux,ibatis,hibernate,mysql,java,scala,struts,redis,jboss,html,css,shell,http,python,javascript,c,js,ajax,memcache,sql,php,jquery,j2ee,c++
+无线事业部-高级IOS开发工程师		xcode,http,android
+网站前台产品经理		
+页游服务器端程序		c,linux,c++,mysql
+高级iOS开发工程师		xml,c,google,http,ios,xcode,macosx,iphonesdk,sqlite,c++,json,android
+【三剑豪】iOS开发		unity3d,c,ios,c++
+iOS开发经理		xml,c,http,ip,xcode,ios,c++,json,tcp,android
+【PPS】诚聘行政前台_游戏		
+后台研发工程师		web,lamp,css,js
+iOS开发攻城师		c,http,ip,xcode,ios,tcp,unix
+百度文库&amp;阅读iOS客户端开发工程师		c,ios,xcode,c++
+彩虹公交iOS开发工程师		xml,c,http,ip,xcode,ios,tcp,json
+前台行政助理		office
+风控产品经理		excel,ppt
+贴吧高级产品经理(用户体验保障方向)		
+互联网后台高级开发工程师（PHP）		python,c,php,java
+iOS客户端开发架构师		c,http,xcode,ios,gcc,c++
+存储产品java开发工程师		web,java,c++
+Android	android,ios
+后端服务器开发工程师		python,c++,windows,html5,linux,php
+Java前端开发工程师		css3,photoshop,java,web,jquery,javascript,eclipse,json,xml,ajax,html,jsp,html5,dreamweaver,div,ie,extjs,css
+APP产品经理		axure,ppt,word,visio
+iOS开发		svn,c,git,http,xcode,ios,c++,html5,android
+项目经理（PM）		
+IOS高级开发工程师		web,c,12,java,uikit,xcode,ios,c++,json,mvc,http,android
+产品经理	axure
+产品经理（移动端，社交方向）		ps
+产品经理-sdk方向		
+资深java后台工程师		linux,j2ee,hibernate,java,webservice,spring,struts,tcp,ip,php
+高级iOS开发		c,ios
+Android/ios开发工程师		android,ios
+【微信产品部】Linux下C/C++后台开发		c,shell,python,linux,c++,sql,mysql
+数据产品经理		sas,sql,excel,spss
+无线产品经理（拍客产品）		
+产品主管/经理（生活服务）		pc
+产品推广经理（移动端）		
+高级JAVA开发工程师		soa,springmvc,spring,mysql,rest,ibatis,as,shell,design,linux,engineer,web,jdbc,java,struts,redis,jboss,html,weblogic,memcached,svn,hibernate,mongodb,javascript,memcache,sql,servlet,a,j2ee,tomcat,of,resin,lucene,struts2,oracle,software
+产品经理（用户系统方向）		
+Java高级开发		soa,springmvc,spring,mysql,ibatis,linux,webwork,web,java,redis,json,html,mybatis,css,hibernate,http,mongodb,javascript,js,maven,ajax,memcache,ssh,sql,jquery,j2ee,tomcat,server,struts2,mvc,oracle
+iOS开发工程师（Runmobile）		xcode,android,mvc,ios,c
+产品经理（微博粉丝服务平台）		
+风控产品经理（反套现与洗钱）		axure,visio
+高级产品经理		
+智能家电APP产品经理（iOS）		ios
+产品经理（策划）		
+Java开发工程师	hibernate,java,mysql,spring,zookeeper,eclipse,mvc,linux
+搜索引擎产品经理		
+游戏产品引入经理		
+产品经理（搜索）		pc
+Java开发中级工程师		web,j2ee,12,java,tomcat,springmvc,javascript,jboss,hibernate,html,weblogic,sql,mysql,oracle,postgresql,css
+支付类产品经理		web,word,ppt
+Linux服务器开发高级工程师-Python方向		ps,c,python,mongodb,redis,c++,mysql
+iOS游戏开发工程师		unity3d,http,ip,xcode,ios,tcp,cocos2d
+个性化阅读平台（品读）产品经理		
+后台开发实习生-大数据方向		c,shell,java,python,c++,linux
+产品经理（Web端）		web
+智能家电APP产品经理（安卓）		android
+网页产品经理		
+Java开发岗位		svn,git,java,webservice,tomcat,jpa,ios,ejb,weblogic,ssh,mysql,oracle,android
+PHP工程师		xml,web,lamp,git,http,sql,ios,mysql,redis,html,js,ajax,memcache,javascript,linux,apache,java,android,php,com,css
+iOS开发工程师/北京	ps,c,ios
+高级PHP工程师		xml,web,j2ee,javascript,http,mongodb,jquery,linux,redis,ajax,json,html,mysql,apache,php,memcached,css
+Node.js服务器开发工程师		c++,mysql
+iOS/Android开发		xml,java,ios,c++,json,http,android
+Android服务器开发工程师		web,j2ee,http,python,linux,java,php
+产品经理（CRM方向）		erp,oa
+UX设计师-后台方向		12
+阿里巴巴淘宝技术部招聘IOS/andriod开发（杭州）		java,andriod,uikit,ios,xcode,oc,c++,cocos2d,android
+产品经理（CRM产品）		
+Java开发经理		ip,linux,tcp,ibatis,shell,mysql,java,struts,redis,javaee,spring,uml,memcached,hibernate,http,mongodb,maven,sql,apache,svn,tomcat,eclipse,resin,oracle
+高级产品经理（商业产品）		axure,office,mindmanager,visio
+Java开发工程师		soa,google,svn,springmvc,spring,linux,sqlserver,tcp,300,ibatis,unix,dwr,mysql,seo,hbase,xml,web,jpa,git,java,jdbc,struts,redis,poi,ejb,jboss,0,json,html,weblogic,visio,mongodb,mybatis,uml,shell,memcached,css,ip,flex,hibernate,http,jbpm,rest,python,myeclipse,javascript,c,js,ajax,memcache,jsp,ssh,pdm,sql,apache,postgresql,db2,php,servlet,extjs,jquery,ssh2,j2ee,12,erp,webservice,tomcat,windows,eclipse,resin,server,lucene,struts2,mvc,pl,ms,swing,oracle,com,html5
+iOS/iPhone	ip,c,ios,tcp
+资深Java开发工程师		google,springmvc,spring,mysql,sqlserver,tcp,ibatis,shell,linux,xml,web,jdbc,java,struts,redis,ejb,jboss,json,html,ip,mybatis,uml,android,css,jquery,hibernate,http,javaweb,python,mongodb,memcache,javascript,j2ee,js,ajax,cet,jsp,sql,apache,php,servlet,groovy,c,12,erp,tomcat,eclipse,c++,server,struts2,mvc,oracle
+高级产品运营经理		seo
+移动客户端产品经理PM	android,pm
+行政助理兼前台		excel,word
+无线产品经理（手游联运）		
+Java后端开发工程师		web,j2ee,hibernate,java,mysql,spring,struts,javaee,server,ibatis,struts2,sql,oracle,db2
+在线教育产品经理		
+Ruby服务器开发工程师		web,shell,http,mongodb,mysql,redis,tcp,git,linux
+产品经理（运营部）		
+web	linux,web,j2ee,java,svn,memcached,javascript,ajax,html,html5,sql,servlet
+资深iOS开发工程师		xml,unity3d,c,xcode,ios,c++,json,android
+IOS	xml,web,c,java,xcode,ios,c++,json,http,android
+Java开发，高级开发		web,j2ee,struts,java,spring,ip,flash,tcp,ajax,mvc,internet,http,12
+移动互联网web后端Java开发工程师		jquery,web,hibernate,java,spring,javascript,html,jsp,mysql,servlet,css
+后台服务开发		c,c++
+高级linux网络开发工程师		shell,c,linux,c++,internet
+J2EE开发工程师(游戏运营后台开发)		web,j2ee,hibernate,jpa,spring,server
+Java游戏服务器开发工程师		web,hibernate,java,tomcat,linux,ibatis,mysql
+IOS终端开发工程师		xml,c,http,ip,ios,tcp
+Linux后台开发工程师		c,ip,mysql,redis,tcp,unix,c++,linux
+iOS	xml,c,google,http,java,ip,xcode,ios,unix,c++,json,mvc,tcp,pdf,android,com,html5
+c++	unity3d,linux,ios,c++,cocos2d,mysql,android
+产品经理、产品运营		
+高薪诚聘iOS开发人才		ip,ios,http,tcp
+（天津）高级Java服务器开发工程师		j2ee,java,ip,tcp,linux,http,com
+Java开发工程师/高级工程师		soa,web,j2ee,java,ip,internet,redis,tcp,ssh,mysql,http
+行政前台实习生		
+硬件产品经理		
+Java	lucene,springmvc,spring,linux,sqlserver,ibatis,unix,shell,design,mysql,webwork,xml,web,jdbc,java,struts,redis,html,weblogic,mybatis,uml,css,hibernate,http,python,mongodb,javascript,maven,ajax,memcache,jsp,sql,apache,db2,servlet,a,j2ee,tomcat,of,uv,as,server,fluent,struts2,mvc,oracle,etl
+iOS开发总监		xml,c,json,ios,xcode
+高级移动客户端产品经理		
+Linux后台服务器开发工程师		web,c,java,python,linux,c++,mysql,oracle
+Java开发工程师/高级工程师-北京方恒-D-DMN		j2ee,java,ip,tcp,internet,http
+高级C++服务器开发工程师		c++,linux
+高级JAVA开发		linux,hibernate,java,python,ip,struts,tcp,shell,resin,sql,spring,mybatis,http,com,mysql
+商业化产品经理（开放平台运营）		sem
+服务器运维工程师		mcitp,windows,server,linux,mcse,vmware
+资深产品专员/产品经理		
+产品经理（运营）		
+iOS开发工程师！！！		c,ios,c++,linux
+后台支付产品经理		
+产品经理（高级）（平台端）		
+手游产品运营经理		
+互联网金融产品高级研发经理		json,php,java,webservice
+C++服务器端开发工程师		ip,tcp,c++
+京东商城	svn,maven,java,tomcat,mysql,spring,struts,eclipse,sqlserver,ibatis,sql,linux,oracle
+产品研发经理		12,word,visio
+个性化产品经理/高级产品设计师		
+APP产品营销策划经理		
+产品经理（视频课程）		
+后台高级开发工程师		linux,web,c,sql,redis,c++,mysql
+IOS开发工程师		xml,ps,c,12,java,andriod,web,ip,xcode,ios,sqlite,c++,json,mvc,tcp,a,http,android,gui,html5
+Java飞信营销平台开发		jquery,web,java,javascript,ibatis,html,jsp,html5,mysql,div,css
+Java搜索开发工程师		lucene,java
+产品经理（手机安全）		android
+C/C++后台开发工程师		c,ip,tcp,unix,c++,linux
+java高级开发工程师		mongodb,mysql,java,web,sql
+Java服务器工程师		linux,shell,java,ip,mysql,tcp,lucene,sql,http
+中级Java开发工程师（2）		xml,web,hibernate,java,tomcat,springmvc,spring,jquery,struts,jboss,ibatis,ajax,mvc,javascript,sql,mysql,oracle,uml,css
+iOS开发工程师(急求！)		pre
+高级产品经理/产品架构师		
+高级Java开发工程师--急招		j2ee,visio
+高级产品经理（策划）		
+Java高级开发攻城狮		linux,java,windows,javascript,ios,2000,html5,mysql,oracle,android
+PHP后台开发工程师		web,shell,linux,js,unix,mysql,apache,php
+Android,	android,mvc,ios
+高级无线产品经理		
+服务器资深研发工程师		c,ip,tcp,unix,c++,linux
+IOS客户端开发工程师		xcode,ios,unix
+产品运营经理（深圳）		
+【实习生】java开发工程师		spring,design,mysql,xml,web,java,struts,ideas,jboss,html,css,hibernate,javascript,sql,apache,jquery,tomcat,database,of,eclipse,server,project,mvc
+高级产品经理（收费产品）		
+PHP服务器开发工程师		hibernate,java,spring,linux,struts1,mysql,oracle,uml
+电商产品经理/高级产品经理		axure,erp,visio
+无线高级产品经理		android,ios
+初级iOS开发工程师		http,c,ios,xcode,c++
+产品经理-智能电视/终端产品方向		photoshop,android,axure,viso,office
+高级PHP后台开发工程师		xml,web,python,javascript,linux,ajax,html,mysql,php
+高级Java服务器开发工程师		jquery,j2ee,http,mongodb,linux,redis,lua,ssh,mysql,oracle,java,php,com,thrift
+iOS手机开发工程师		xcode,ios,html5
+Java开发工程师(中间件方向)		ip,http,tcp
+资深iOS开发工程师／开发顾问		c,http,xcode,ios,sqlite,tcp,sql
+产品经理-用户平台体系方向		
+java服务器端开发		http,2000,java,tcp,ip
+电子商务销售经理	
+PHP程序员		linux,web,shell,erp,python,mongodb,unix,javascript,2000,jquery,html,mysql,div,php,mvc,css
+产品市场经理		
+Android/Ios开发工程师		java,android,ios,c
+高级iOS移动开发工程师		ios
+iOS开发工程师		photoshop,sqlite,google,svn,ip,xcode,macosx,rest,as,vc,cocos2d,linux,id,xml,web,gcc,git,java,lua,flash,iphonesdk,0,json,visio,uml,android,css,3d,css3,oo,http,ps,javascript,ios,js,tcp,sql,php,objectivec,a,unity3d,c,12,uikit,mysql,gui,c++,server,windows,mvc,xmpp,oracle,j2me,com,html5
+web前端高级开发工程师		css3,web,javascript,ajax,html,html5,css
+IOS中高级开发工程师		http,ios
+iOS开发高级工程师		c,ios,xcode
+资深无线产品经理		android,ios
+Java开发		springmvc,spring,linux,ibatis,shell,mysql,id,web,java,redis,html,mybatis,uml,css,svn,hibernate,javascript,js,ajax,jsp,sql,jquery,j2ee,12,tomcat,eclipse,server,struts2,mvc,oracle
+互联网后台开发工程师（PHP）		c,http,ip,linux,redis,c++,unix,memcache,tcp,mysql,php
+IOS（J2EE）开发工程师-广州-ZQ		j2ee,ios
+前台文员		
+互联网产品经理/产品助理		axure,office
+网易花田IOS/安卓高级开发工程师		300,12,ios,mentor
+Java开发-互联网		svn,maven,java,tomcat,mysql,spring,struts,eclipse,sqlserver,ibatis,sql,linux,oracle
+iOS开发工程师(可年后入职)		http,c,ios,c++
+PHP开发		ajax,php,javascript,mysql
+JAVA	svn,jira,hibernate,java,jbpm,mysql,ajax,struts2,sql,extjs
+后端Java开发工程师		python,java,scala
+北京招聘	a,c,thrift,of,c++,server,design,ms,software,engineer
+PHP开发工程师		linux,web,c,svn,mongodb,javascript,redis,unix,js,ajax,mysql,apache,php,css
+高级Java	soa,jquery,javascript,java,mysql,spring,struts,redis,linux,server,ibatis,lua,ajax,sql,oracle
+移动支付高级产品经理		
+IOS开发经理（北京）		c,xcode,c++

@@ -7,7 +7,8 @@ import jieba.analyse
 jwords = {}
 sjob = {}
 count = 0
-fin = open(u'F:/人才雷达/yincai_record_30w.txt', 'r')
+#fin = open(u'F:/人才雷达/yincai_record_30w.txt', 'r')
+fin = open(u'd:/yincai_record_30w.txt', 'r')
 for line in fin:
     count += 1
     # if count == 10000:
@@ -20,12 +21,13 @@ for line in fin:
     experience = cv['experience']
     #print experience
     for li in experience:
-        jname = li['job_name']
-
+        #jname = li['job_name']
+        jname = cv['pro_title']
         detail = li['work_desc']
-        if jname == 'null' or detail == 'null':
+        if jname == 'null' or detail == 'null' or len(jname)<1:
             continue
-        words = jieba.analyse.extract_tags(detail, 15)
+        jname = jname[0]
+        words = jieba.analyse.extract_tags(detail, 25)
         if jname not in jwords:
             jwords[jname] = list(words)
         else:
