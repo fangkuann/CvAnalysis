@@ -4,6 +4,8 @@ from sklearn import feature_extraction
 from sklearn import cluster
 data = []
 skillset= []
+
+
 def readmatrix():
     fin = open('./job_keywords.txt','r')
     for line in fin:
@@ -11,7 +13,7 @@ def readmatrix():
         line = line.strip()
         try:
             skill = line.split('\t')[0]
-            jobs = line.split('\t')[1]#.split(',')
+            jobs = line.split('\t')[1] #.split(',')
         except Exception:
             continue
         data.append(jobs)

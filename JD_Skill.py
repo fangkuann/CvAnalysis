@@ -4,7 +4,7 @@ import jieba
 skills = set([])
 job_skill = {}
 def readSkill():
-    for line in open('./data/skill_lib.txt'):
+    for line in open('./data/skill_lib2.txt'):
         line = line.strip()
         skill = line.split('\t')[0]
         skills.add(skill)
@@ -27,7 +27,7 @@ def readJD():
 
 readSkill()
 readJD()
-fout = open('./data/jd_skill.txt','w')
+fout = open('./data/jd_skill2.txt','w')
 for job in job_skill:
    # print job
     fout.write(job+'\t'+','.join(job_skill[job])+'\n')

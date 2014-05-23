@@ -1,7 +1,7 @@
 __author__ = 'fangkuan'
 import jieba
 skills = []
-for line in open('./data/skill_lib.txt'):
+for line in open('./data/skill_lib2.txt'):
     line = line.strip()
     skill = line.split('\t')[0]
     skills.append(skill)
@@ -23,7 +23,7 @@ for i in xrange(len(skills)):
                 label[j] = 1
                 #print skills[i] ,'\t', skills[j]
     count += 1
-fout = open('./data/skill_merge.txt', 'w')
+fout = open('./data/skill_merge2.txt', 'w')
 for i in xrange(len(skills)):
     fout.write('\t'.join(final[i])+'\n')
 fout.flush()
